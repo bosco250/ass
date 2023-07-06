@@ -1,3 +1,7 @@
+//ASSIGNMENT OF C++
+//Group members: 1.DUSENGIMANA Jean Bosco 222004798
+ //              2.NISINGIZWE Marie Claire 222008836
+//QUESTION 1)
 #include<iostream>
 using namespace std;
 int calculateRental(int, int, int);
